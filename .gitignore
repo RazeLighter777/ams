@@ -1,0 +1,5 @@
+venv/
+webapp/
+database.db
+__pycache__/
+.idea/
